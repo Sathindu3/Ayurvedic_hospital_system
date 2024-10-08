@@ -1,0 +1,34 @@
+.section-footer {
+    background-color: #0B2F00;
+    padding-top: 50px;
+}
+
+.section-footer .content-1 ul {
+    display: flex;
+    line-height: 6;
+}
+
+.section-footer .content-1 ul li img {
+    width: 50px;
+}
+.section-footer .content-2{
+    padding-bottom: 0px;
+}
+.section-footer .content-2 ul li {
+    color: white;
+    
+}
+
+.section-footer .content-2 ul {
+    line-height: 6;
+}
+
+.section-footer .content-5 {
+    display: flex;
+    font-size: 20px;
+    color: white;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}

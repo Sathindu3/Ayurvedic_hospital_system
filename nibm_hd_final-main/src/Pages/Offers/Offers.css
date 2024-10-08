@@ -1,0 +1,32 @@
+.section-offers .card {
+    text-align: center;
+}
+
+.section-offers .content-1 {
+    text-align: center;
+}
+
+.section-offers .content-1 h2 {
+    font-size: 48px;
+}
+
+.section-offers .content-1 p {
+    font-size: 36px;
+}
+
+.section-offers .content-2 {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.section-offers .content-2 .card {
+    background-color: cadetblue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.section-offers .content-2 .card:hover {
+    background-color: rgb(44, 57, 58);
+    color: white;
+
+}

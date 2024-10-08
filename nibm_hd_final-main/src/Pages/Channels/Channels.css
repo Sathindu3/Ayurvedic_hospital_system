@@ -1,0 +1,11 @@
+/* .section-channels {
+    background-image: url('../../Resources/images/image1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+} */
+
+.section-channels .content-1 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: white;
+}

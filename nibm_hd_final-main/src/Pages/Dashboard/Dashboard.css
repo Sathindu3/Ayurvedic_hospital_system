@@ -1,0 +1,47 @@
+.section-dashboard .content-1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    flex-direction: column;
+}
+
+.section-dashboard .content-1 div {
+    padding: 30px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+
+.section-dashboard .content-1 div {
+    padding: 30px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+
+.section-dashboard .content-1 div a {
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.section-dashboard .content-1 div:hover {
+    background-color: green;
+    transition: 1.2s;
+}
+
+.section-dashboard .content-1 div:hover a {
+    color: white;
+
+}
+
+.section-dashboard .content-1 div a:hover {
+    color: white;
+}
+.section-dashboard .content-2 div{
+    display: flex;
+    flex-direction: row;
+}
+.section-dashboard .content-2 canvas {
+    width: 300px !important;
+    height: 300px !important;
+}

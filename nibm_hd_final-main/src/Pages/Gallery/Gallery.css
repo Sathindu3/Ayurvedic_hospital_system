@@ -1,0 +1,33 @@
+.section-gallery .content-1 {
+    display: flex;
+    justify-content: center;
+}
+.section-gallery img{
+    padding: 10px;
+   
+}
+.section-gallery .content-1 img {
+    width: 100%;
+    height: 400px;
+
+}
+.section-gallery .content-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.section-gallery .content-2 img {
+    width: 100%;
+    height: 300px;
+
+}
+.section-gallery .content-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.section-gallery .content-3 img {
+    width: 100%;
+    height: 500px;
+
+}

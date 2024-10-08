@@ -1,0 +1,28 @@
+.patients-container {
+    padding: 20px;
+  }
+  
+  .patients-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .patients-table th, .patients-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .patients-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .patients-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .patients-table tr:hover {
+    background-color: #ddd;
+  }
+  

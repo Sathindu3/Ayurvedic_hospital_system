@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\patientsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\patientsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\migrations\\20240825101602_appointmentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20240825101602_appointmentupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|d:\\hd-finalproject\\nibm-hd_final_backend-main\\hospital\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AA68B7-39D8-4990-A66E-18B818E47E52}|Hospital\\Hospital.csproj|solutionrelative:hospital\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:25:27.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientSummary.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\PatientSummary.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\PatientSummary.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\PatientSummary.cs",
+              "RelativeToolTip": "Hospital\\Model\\PatientSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:37:59.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:58:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\Appointment.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Appointment.cs",
+              "RelativeToolTip": "Hospital\\Model\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:45:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\Product.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Product.cs",
+              "RelativeToolTip": "Hospital\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:25:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\Doctor.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Doctor.cs",
+              "RelativeToolTip": "Hospital\\Model\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:25:21.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Treatment.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\Treatment.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Treatment.cs",
+              "RelativeToolTip": "Hospital\\Model\\Treatment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:25:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:20:08.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAQwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:18:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Hospital\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Hospital\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:07:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital\\appsettings.json",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\appsettings.json",
+              "RelativeToolTip": "Hospital\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T07:40:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital\\Program.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Program.cs",
+              "RelativeToolTip": "Hospital\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:40:32.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital\\Model\\Patient.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Model\\Patient.cs",
+              "RelativeToolTip": "Hospital\\Model\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:36:35.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240825101602_appointmentupdate.cs",
+              "DocumentMoniker": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Migrations\\20240825101602_appointmentupdate.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20240825101602_appointmentupdate.cs",
+              "ToolTip": "D:\\HD-Finalproject\\nibm-hd_final_backend-main\\Hospital\\Migrations\\20240825101602_appointmentupdate.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20240825101602_appointmentupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:16:02.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

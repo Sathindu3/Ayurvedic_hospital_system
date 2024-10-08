@@ -1,0 +1,38 @@
+.section-aboutus div {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section-aboutus p {
+    font-size: 20px;
+}
+
+.section-aboutus .col-lg-12 {
+    border: 2px solid green;
+    padding: 30px;
+}
+
+.section-aboutus .col-lg-6 {
+    border: 2px solid green;
+    padding: 30px;
+}
+
+.section-aboutus .content-4 .sub-1 {
+    display: flex;
+    align-items: center;
+}
+
+.section-aboutus .content-4 .sub-1 img {
+    width: 33%;
+    height: 300px;
+}
+
+.section-aboutus .content-5 .sub-1 {
+    display: flex;
+    align-items: center;
+}
+
+.section-aboutus .content-5 .sub-1 img {
+    width: 33%;
+    height: 300px;
+}

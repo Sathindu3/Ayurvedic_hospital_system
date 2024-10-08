@@ -1,0 +1,28 @@
+.doctors-container {
+    padding: 20px;
+  }
+  
+  .doctors-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .doctors-table th, .doctors-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .doctors-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .doctors-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .doctors-table tr:hover {
+    background-color: #ddd;
+  }
+  
